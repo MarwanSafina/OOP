@@ -1,0 +1,3 @@
+Q8.After implementing encapsulation, the variables and the data of one class cannot be accessed in another class whereas that data can be used by the member functions of the same class. This in turn helps in protecting variables and methods from outside interference and misuse.
+
+Q9.errror is (Test.id =45;)
