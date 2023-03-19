@@ -1,0 +1,9 @@
+Q6.
+a)"A's no-arg constructor is invoked"
+b) the constructor of A isn"t defines as super in constructor B.
+
+Q7. replace Circle in line 21 with super.
+
+Q8.overridden.
+
+Q9.Syntex Error.
